@@ -103,7 +103,6 @@ pnpm typecheck    # Type check only
 └── README.md
 ```
 
-For a deeper breakdown of data flow, static analysis, and Cerebras’ role, see **summary.md**.
 
 ## License
 
