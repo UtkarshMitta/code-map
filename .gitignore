@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Convex
+convex/_generated/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.log
+
+# Vite
+*.local
